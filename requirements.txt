@@ -1,0 +1,6 @@
+matplotlib==2.2.2
+mahotas==1.4.4
+h5py==2.7.1
+opencv_python==3.4.1.15
+numpy==1.14.2
+scikit_learn==0.19.1
